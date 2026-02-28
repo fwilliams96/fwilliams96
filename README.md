@@ -1,6 +1,6 @@
 # Francisco Williams
 
-🧠 Software Engineer | AI Engineer | Tech Founder | Building Intelligent Systems  
+🧠 Software Engineer | Tech Founder | Building Intelligent Systems  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/fwilliams96)
 [![YouTube](https://img.shields.io/badge/YouTube-@InformaticLoco-red?logo=youtube)](https://www.youtube.com/@InformaticLoco)
