@@ -3,12 +3,14 @@
 🧠 Software Engineer | AI Engineer | Tech Founder | Building AI-powered products  
 
 I’ve been passionate about technology since I was 14 years old, when I started building videogames in ActionScript (Flash).  
-What began as curiosity for game development evolved into a deep commitment to software engineering.
+That early curiosity evolved into a long-term commitment to software engineering and systems design.
 
-Today, I work as a Full-Stack Software Engineer focused on building robust backend systems and AI-powered applications.
+I studied Computer Science at the University of Barcelona (2014–2018) and have since worked as a full-stack software engineer at companies such as NTT Data, Allianz Technology, and currently Kids&Us.
 
-I love experimenting with new technologies, designing scalable architectures and applying best practices.  
-I’ve completed multiple trainings in Clean Code, Clean Architecture, SpringBoot, AWS Cloud Architecture and Generative AI.
+Beyond my professional experience, I’m focused on building robust backend systems and AI-powered applications — turning ideas into real products.
+
+I enjoy experimenting with emerging technologies, designing scalable architectures, and applying solid engineering principles.  
+I’ve completed multiple trainings in Clean Code, Clean Architecture, Spring Boot, AWS Cloud Architecture, and Generative AI.
 
 I’m also starting my journey as a tech content creator, sharing insights and experiences on my YouTube channel:  
 🎥 https://www.youtube.com/@InformaticLoco
