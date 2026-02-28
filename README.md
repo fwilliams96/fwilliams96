@@ -29,6 +29,7 @@ AI virtual try-on system & content automation engine.
 
 Stack:
 Spring Boot · React  · Freepik · Gemini · Stripe
+
 ---
 
 ### 🔵 Williams Infinity
