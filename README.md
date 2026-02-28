@@ -1,13 +1,13 @@
 # Francisco Williams
 
-🧠 Software Engineer | AI Engineer | Tech Founder | Building AI-powered products  
+🧠 Software Engineer | AI Engineer | Tech Founder | Building Intelligent Systems  
 
 I’ve been passionate about technology since I was 14 years old, when I started building videogames in ActionScript (Flash).  
 That early curiosity evolved into a long-term commitment to software engineering and systems design.
 
 I studied Computer Science at the University of Barcelona (2014–2018) and have since worked as a full-stack software engineer at companies such as NTT Data, Allianz Technology, and currently Kids&Us.
 
-Beyond my professional experience, I’m focused on building robust backend systems and AI-powered applications — turning ideas into real products.
+Alongside my professional career, I build AI-driven systems and SaaS products — combining strong backend engineering with modern AI orchestration frameworks.
 
 I enjoy experimenting with emerging technologies, designing scalable architectures, and applying solid engineering principles.  
 I’ve completed multiple trainings in Clean Code, Clean Architecture, Spring Boot, AWS Cloud Architecture, and Generative AI.
@@ -60,6 +60,56 @@ AI-powered technical evaluation platform.
 
 Stack:
 FastAPI · React · PostgreSQL · LangChain · LangGraph
+
+---
+
+## 🤖 AI Engineering Projects
+
+### 🧩 MCP Host  
+Framework to orchestrate Model Context Protocol (MCP) interactions.
+
+🔗 https://github.com/fwilliams96/mcp-host  
+
+- Multi-agent coordination  
+- Tool integration layer  
+- Context routing architecture  
+
+---
+
+### 🛠 Products MCP Server  
+Custom MCP server implementation.
+
+🔗 https://github.com/fwilliams96/products-mcp-server  
+
+- Structured tool exposure  
+- LLM-driven execution  
+- Backend integration patterns  
+
+---
+
+### 🎮 AI Roguelike RPG  
+Top-down roguelike game where NPCs are powered by GenAI + RAG.
+
+🔗 https://github.com/fwilliams96/roguelike_python  
+
+- LLM-driven NPC behavior  
+- Persistent memory via RAG  
+- Quest generation system  
+- Game logic + AI orchestration  
+
+This project explores how generative AI can drive dynamic and adaptive game narratives.
+
+---
+
+### 🤖 LangChain Telegram Bot  
+Telegram bot powered by LangChain with persistent memory.
+
+🔗 https://github.com/fwilliams96/hands_on_telegram_bot  
+
+- Conversation memory stored in MongoDB  
+- APScheduler-based reminder system  
+- LLM integration layer  
+- Backend orchestration patterns  
 
 ---
 
