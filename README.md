@@ -48,18 +48,22 @@ AI consultancy building custom automation and AI systems for companies.
 ---
 
 ### 🟣 Williams Talent
-AI-powered technical evaluation platform.
 
-🔗 Website: https://williamstalent.com  
+AI-powered technical evaluation and candidate intelligence platform.
+
+🔗 Website: https://williamstalent.com
 
 - Automated technical assessments
-- AI interview agents
+- AI interview agents powered by OpenAI Realtime API
 - Skill segmentation by experience level
 - Structured evaluation reports for HR teams
+- Candidate discovery using web search + external APIs
+- Persistent candidate storage with relational + vector databases
+- RAG-powered semantic search across evaluated profiles
 - SaaS architecture with scalable backend
 
 Stack:
-FastAPI · React · PostgreSQL · LangChain · LangGraph
+FastAPI · React · PostgreSQL · Vector Database · LangChain · LangGraph · OpenAI Realtime
 
 ---
 
