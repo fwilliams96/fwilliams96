@@ -15,24 +15,6 @@ I’m also starting my journey as a tech content creator, sharing insights and e
 
 ---
 
-## 🚀 Current Projects
-
-### 🟣 Williams Talent
-AI-powered technical evaluation platform.
-
-🔗 Website: https://williamstalent.com  
-
-- Automated technical assessments
-- AI interview agents
-- Skill segmentation by experience level
-- Structured evaluation reports for HR teams
-- SaaS architecture with scalable backend
-
-Stack:
-Spring Boot · PostgreSQL · React · LangChain · LangGraph
-
----
-
 ### 🟡 FittingBuddy
 AI virtual try-on system & content automation engine.
 
@@ -58,6 +40,24 @@ AI consultancy building custom automation and AI systems for companies.
 - Backend architecture
 - RAG systems
 - Custom integrations
+
+---
+
+## 🚀 Current Projects
+
+### 🟣 Williams Talent
+AI-powered technical evaluation platform.
+
+🔗 Website: https://williamstalent.com  
+
+- Automated technical assessments
+- AI interview agents
+- Skill segmentation by experience level
+- Structured evaluation reports for HR teams
+- SaaS architecture with scalable backend
+
+Stack:
+Spring Boot · PostgreSQL · React · LangChain · LangGraph
 
 ---
 
