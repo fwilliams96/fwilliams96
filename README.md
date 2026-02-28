@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/fwilliams96)
 [![YouTube](https://img.shields.io/badge/YouTube-@InformaticLoco-red?logo=youtube)](https://www.youtube.com/@InformaticLoco)
 [![Website](https://img.shields.io/badge/Website-Williams%20Infinity-black)](https://williamsinfinity.com)
+[![FittingBuddy](https://img.shields.io/badge/FittingBuddy-Virtual%20Try--On-yellow)](https://fittingbuddy.com)
 [![Website](https://img.shields.io/badge/Website-Williams%20Talent-purple)](https://williamstalent.com)
 
 I’ve been passionate about technology since I was 14 years old, when I started building videogames in ActionScript (Flash).  
