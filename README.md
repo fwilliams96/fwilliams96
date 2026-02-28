@@ -19,18 +19,27 @@ I’m also starting my journey as a tech content creator, sharing insights and e
 
 ## 🚀 Current Projects
 
-### 🟡 FittingBuddy
-AI virtual try-on system & content automation engine.
+### 🟡 FittingBuddy  
+AI-powered virtual try-on Chrome Extension.
 
-🔗 Website: https://fittingbuddy.com
+🔗 Website: https://fittingbuddy.com  
 
-- Image-based outfit simulation
-- AI orchestration pipelines
-- Script → Scene → Image → Music → Video automation
-- Chrome Extension integration
+A browser extension that allows users to upload their photo and virtually try on clothing from any online store.
 
-Stack:
-Spring Boot · React  · Freepik · Gemini · Stripe
+- Upload your own photo directly inside the extension  
+- Select garments from any e-commerce website  
+- Generate AI-powered outfit simulations instantly  
+- “Runway mode”: generate short AI videos showcasing the outfit  
+- Seamless integration within the browsing experience  
+
+Additionally:
+
+- Web application for subscription management  
+- Access to previously generated looks  
+- Stripe-based billing system  
+
+Stack:  
+Spring Boot · React · Gemini · Computer Vision APIs · Stripe
 
 ---
 
