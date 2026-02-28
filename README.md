@@ -15,6 +15,8 @@ I’m also starting my journey as a tech content creator, sharing insights and e
 
 ---
 
+## 🚀 Current Projects
+
 ### 🟡 FittingBuddy
 AI virtual try-on system & content automation engine.
 
@@ -42,8 +44,6 @@ AI consultancy building custom automation and AI systems for companies.
 - Custom integrations
 
 ---
-
-## 🚀 Current Projects
 
 ### 🟣 Williams Talent
 AI-powered technical evaluation platform.
