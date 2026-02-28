@@ -28,8 +28,7 @@ AI virtual try-on system & content automation engine.
 - Chrome Extension integration
 
 Stack:
-Spring Boot · Python · FastAPI · React · AI APIs
-
+Spring Boot · React  · Freepik · Gemini · Stripe
 ---
 
 ### 🔵 Williams Infinity
@@ -57,7 +56,7 @@ AI-powered technical evaluation platform.
 - SaaS architecture with scalable backend
 
 Stack:
-Spring Boot · PostgreSQL · React · LangChain · LangGraph
+FastAPI · React · PostgreSQL · LangChain · LangGraph
 
 ---
 
@@ -66,6 +65,7 @@ Spring Boot · PostgreSQL · React · LangChain · LangGraph
 **Backend**
 - Spring Boot
 - PostgreSQL
+- SQL Server
 - REST APIs
 - Microservices architecture
 - Docker
@@ -87,9 +87,10 @@ Spring Boot · PostgreSQL · React · LangChain · LangGraph
 
 - AI content generation pipelines
 - Multi-step agent orchestration systems
-- NFT & blockchain experiments (Solana)
 - Game mechanics & trading card systems (Unity)
+🔗 https://github.com/fwilliams96/TFG
 - Video automation workflows
+- NFT & blockchain experiments (Solana)
 
 ---
 
