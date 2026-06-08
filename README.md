@@ -6,7 +6,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-@InformaticLoco-red?logo=youtube)](https://www.youtube.com/@InformaticLoco)
 [![FittingBuddy](https://img.shields.io/badge/FittingBuddy-Virtual%20Try--On-yellow)](https://fittingbuddy.com)
 [![Williams Infinity](https://img.shields.io/badge/Williams%20Infinity-AI%20Consulting-black)](https://williamsinfinity.com)
-[![Copiloit](https://img.shields.io/badge/Copiloit%20Hiring-purple)](https://copiloit.com)
+[![Copiloit](https://img.shields.io/badge/Copiloit-AI%20Hiring-purple)](https://copiloit.com)
 
 I’ve been passionate about technology since I was 14 years old, when I started building videogames in ActionScript (Flash).  
 That early curiosity evolved into a long-term commitment to software engineering and systems design.
