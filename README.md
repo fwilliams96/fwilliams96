@@ -62,11 +62,11 @@ AI consultancy building custom automation and AI systems for companies.
 
 ---
 
-### 🟣 Williams Talent
+### 🟣 Copiloit
 
 AI-powered technical evaluation and candidate intelligence platform.
 
-🔗 Website: https://williamstalent.com
+🔗 Website: https://copiloit.com
 
 - Automated technical assessments
 - AI interview agents powered by OpenAI Realtime API
@@ -78,7 +78,7 @@ AI-powered technical evaluation and candidate intelligence platform.
 - SaaS architecture with scalable backend
 
 Stack:
-FastAPI · React · PostgreSQL · Vector Database · LangChain · LangGraph · OpenAI Realtime
+FastAPI · SpringBoot · React · PostgreSQL · Vector Database · LangChain · LangGraph · OpenAI Realtime
 
 ---
 
